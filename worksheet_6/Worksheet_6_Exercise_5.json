@@ -1,0 +1,214 @@
+{
+    "a": [
+        "agree",
+        "already",
+        "air",
+        "available",
+        "another",
+        "actual"
+    ],
+    "b": [
+        "business",
+        "bet",
+        "broke",
+        "butter",
+        "basic",
+        "beyond",
+        "better",
+        "breakfast",
+        "breathe",
+        "both",
+        "bright",
+        "body"
+    ],
+    "c": [
+        "center",
+        "chest",
+        "came",
+        "cutting",
+        "club",
+        "calm",
+        "case",
+        "character",
+        "city",
+        "count",
+        "cold"
+    ],
+    "d": [
+        "duck",
+        "danger",
+        "during",
+        "duty",
+        "dance",
+        "distant",
+        "draw"
+    ],
+    "e": [
+        "effect",
+        "exist",
+        "easily",
+        "event",
+        "engineer",
+        "education"
+    ],
+    "f": [
+        "front",
+        "factor",
+        "far",
+        "freedom",
+        "fly",
+        "facing",
+        "friend",
+        "famous",
+        "foot",
+        "flat"
+    ],
+    "g": [
+        "growth",
+        "gather",
+        "guess",
+        "greatly",
+        "give",
+        "grown",
+        "greatly",
+        "growth",
+        "gate"
+    ],
+    "h": [
+        "huge",
+        "highway",
+        "hospital",
+        "health",
+        "had",
+        "handle",
+        "has",
+        "hay"
+    ],
+    "i": [
+        "into",
+        "instant",
+        "image"
+    ],
+    "j": [
+        "judge"
+    ],
+    "k": [
+        "known"
+    ],
+    "l": [
+        "leg",
+        "lungs",
+        "love",
+        "letter",
+        "location",
+        "line"
+    ],
+    "m": [
+        "morning",
+        "must",
+        "most",
+        "mix",
+        "material",
+        "machine",
+        "mood",
+        "material",
+        "month"
+    ],
+    "n": [
+        "neighborhood",
+        "no"
+    ],
+    "o": [
+        "onto",
+        "open",
+        "official"
+    ],
+    "p": [
+        "package",
+        "planning",
+        "play",
+        "plate",
+        "pony",
+        "push",
+        "pitch",
+        "practice",
+        "period",
+        "planet",
+        "partly",
+        "picture"
+    ],
+    "q": [
+        "quest"
+    ],
+    "r": [
+        "run",
+        "root",
+        "rest",
+        "raise",
+        "run",
+        "review",
+        "ride"
+    ],
+    "s": [
+        "sail",
+        "section",
+        "shelter",
+        "symbol",
+        "sent",
+        "suit",
+        "spider",
+        "shut",
+        "surface",
+        "said",
+        "serve",
+        "support",
+        "sharp",
+        "smell",
+        "shut",
+        "station",
+        "serve",
+        "science",
+        "southern",
+        "society",
+        "smile",
+        "slept"
+    ],
+    "t": [
+        "thrown",
+        "think",
+        "then",
+        "three",
+        "thousand",
+        "truth",
+        "till",
+        "three",
+        "tobacco",
+        "trunk"
+    ],
+    "u": [
+        "unknown"
+    ],
+    "v": [
+        "value"
+    ],
+    "w": [
+        "wind",
+        "white",
+        "white",
+        "whistle",
+        "white",
+        "written",
+        "word",
+        "wide",
+        "whose"
+    ],
+    "x": [
+        "xerox"
+    ],
+    "y": [
+        "your"
+    ],
+    "z": [
+        "zeal"
+    ]
+}
